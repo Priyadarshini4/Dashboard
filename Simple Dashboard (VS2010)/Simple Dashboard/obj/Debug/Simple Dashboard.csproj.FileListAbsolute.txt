@@ -1,0 +1,13 @@
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\bin\Simple Dashboard.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\bin\Simple Dashboard.pdb
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\bin\Highchart.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\bin\Newtonsoft.Json.Net20.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\obj\Debug\Simple Dashboard.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard\Simple Dashboard\obj\Debug\Simple Dashboard.pdb
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\bin\Simple Dashboard.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\bin\Simple Dashboard.pdb
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\bin\Highchart.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\bin\Newtonsoft.Json.Net20.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\obj\Debug\Simple Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\obj\Debug\Simple Dashboard.dll
+C:\Users\abraham\Documents\Visual Studio 2010\Projects\Simple Dashboard (VS2010)\Simple Dashboard\obj\Debug\Simple Dashboard.pdb

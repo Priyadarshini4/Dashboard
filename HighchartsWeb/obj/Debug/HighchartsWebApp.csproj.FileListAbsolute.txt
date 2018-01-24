@@ -1,0 +1,6 @@
+F:\Projects\Sample Dashboard\HighchartsWeb\bin\HighchartsWebApp.dll
+F:\Projects\Sample Dashboard\HighchartsWeb\bin\HighchartsWebApp.pdb
+F:\Projects\Sample Dashboard\HighchartsWeb\bin\Newtonsoft.Json.Net20.dll
+F:\Projects\Sample Dashboard\HighchartsWeb\obj\Debug\HighchartsWebApp.csprojResolveAssemblyReference.cache
+F:\Projects\Sample Dashboard\HighchartsWeb\obj\Debug\HighchartsWebApp.dll
+F:\Projects\Sample Dashboard\HighchartsWeb\obj\Debug\HighchartsWebApp.pdb
